@@ -3,7 +3,7 @@
 > 独立开发者。专注 App/Web 接口协议分析、参数签名还原、so 层算法还原。
 > 交付可运行代码 + 完整协议文档，带 30 天失效修复保障。
 
-📮 **联系我**：微信 `moveax` ｜ Telegram `@Mov0960` ｜ 邮箱 `6346854@gmail.com`
+📮 **联系我**：微信 `Eaxren` ｜ Telegram `@Mov0960` ｜ 邮箱 `6346854@gmail.com`
 
 ---
 
@@ -159,7 +159,7 @@
 
 | 渠道 | 地址 |
 |---|---|
-| 微信 | `moveax` |
+| 微信 | `Eaxren` |
 | Telegram | `@Mov0960` |
 | 邮箱 | `6346854@gmail.com` |
 | GitHub | https://github.com/6346854-max |
