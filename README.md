@@ -1,9 +1,9 @@
-﻿# Moveax · 协议分析与逆向工程服务
+# Moveax · 协议分析与逆向工程服务
 
 > 独立开发者。专注 App/Web 接口协议分析、参数签名还原、so 层算法还原。
 > 交付可运行代码 + 完整协议文档，带 30 天失效修复保障。
 
-📮 **联系我**：微信 `moveax` ｜ Telegram `@moveax` ｜ 邮箱 `6346854@gmail.com`
+📮 **联系我**：微信 `moveax` ｜ Telegram `@Mov0960` ｜ 邮箱 `6346854@gmail.com`
 
 ---
 
@@ -160,7 +160,7 @@
 | 渠道 | 地址 |
 |---|---|
 | 微信 | `moveax` |
-| Telegram | `@moveax` |
+| Telegram | `@Mov0960` |
 | 邮箱 | `6346854@gmail.com` |
 | GitHub | https://github.com/6346854-max |
 
@@ -169,7 +169,3 @@
 ---
 
 <sub>本页所述服务均为技术研究与工程实现。请在合法合规范围内使用交付成果。</sub>
-
----
-
-<sub>案例集在 [cases/](./cases/) 目录。</sub>
