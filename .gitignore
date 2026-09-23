@@ -1,0 +1,14 @@
+﻿*.pyc
+__pycache__/
+*.db
+*.log
+.env
+venv/
+.venv/
+*.so
+*.apk
+*.ipa
+*.dll
+samples/
+*.dump
+*.flows
